@@ -10,7 +10,7 @@ function setup() {
 }
 
 
-var DEBUG = true;
+var DEBUG = false;
 var flock = new Array();
 var minDistance = 200;
 var headingTreshhold = 0.009;
